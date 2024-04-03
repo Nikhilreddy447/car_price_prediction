@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+scrapy
+seaborn
+scikit-learn
+catboost
+xgboost
+category_encoders
+-e .
