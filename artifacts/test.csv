@@ -1,0 +1,926 @@
+City,Body_type,Transmission,No_of_owners,color,Milleage,Fuel_type,Make_year,Price,Make_Model
+Hyderabad,hatchback,manual,1,white,25,petrol,2017,6.85227,Hyundai-Elite i20
+Hyderabad,hatchback,manual,1,grey,60,petrol,2016,4.29,Hyundai-i10
+Bangalore,suv,manual,1,silver,30,diesel,2021,12.47253,Mahindra-XUV 300
+Delhi,sedan,manual,1,white,33,petrol,2022,12.90654,Volkswagen-Virtus
+Bangalore,sedan,manual,1,orange,41,petrol,2018,9.93931,Hyundai-Verna
+Bangalore,suv,automatic,1,red,38,petrol,2018,11.99933,Hyundai-Creta
+Pune,hatchback,manual,3,grey,51,petrol,2016,2.11,Datsun-Redi-GO
+Bangalore,hatchback,manual,1,blue,55,petrol,2014,1.89,Tata-Nano
+Pune,hatchback,manual,1,beige,27,petrol,2011,1.71536,Chevrolet-Spark
+Delhi,hatchback,manual,1,grey,81,petrol,2012,3.14,Volkswagen-Polo
+Bangalore,hatchback,automatic,1,blue,32,petrol,2020,8.68,Maruti Suzuki-Baleno
+Delhi,hatchback,manual,1,silver,85,petrol,2016,4.77,Maruti Suzuki-Baleno
+Bangalore,suv,manual,1,black,11,petrol,2020,10.49632,Kia-Sonet
+Hyderabad,hatchback,manual,1,grey,40,petrol,2016,4.85,Hyundai-Grand i10
+Kolkata,suv,manual,1,grey,27,petrol,2021,8.49,Tata-Nexon
+Bangalore,hatchback,manual,1,blue,62,petrol,2019,6.59,Maruti Suzuki-Baleno
+Pune,suv,manual,1,white,50,diesel,2019,9.2,Tata-Nexon
+Chennai,sedan,manual,2,silver,67,petrol,2013,3.98,Honda-Amaze
+Pune,sedan,manual,1,brown,53,petrol,2017,5.58,Volkswagen-Ameo
+Bangalore,hatchback,manual,2,orange,102,petrol,2010,1.99,Maruti Suzuki-A-Star
+Bangalore,hatchback,automatic,1,red,76,petrol,2015,4.05854,Maruti Suzuki-Celerio
+Bangalore,suv,manual,2,white,47,diesel,2020,10.91668,Kia-Seltos
+Hyderabad,hatchback,automatic,1,red,17,petrol,2019,4.32,Maruti Suzuki-Alto K10
+Bangalore,suv,manual,1,white,102,diesel,2019,8.55534,Nissan-Kicks
+Hyderabad,hatchback,automatic,1,grey,13,petrol,2022,5.42,Maruti Suzuki-S-Presso
+Bangalore,sedan,manual,1,golden,32,diesel,2011,4.48,Maruti Suzuki-Swift Dzire
+Delhi,hatchback,manual,1,white,83,petrol+cng,2015,3.4728,Maruti Suzuki-Wagon R 1.0
+Chennai,sedan,manual,3,red,94,diesel,2015,5.35759,Honda-City
+Bangalore,sedan,manual,1,silver,139,diesel,2015,5.31631,Skoda-Rapid
+Pune,sedan,manual,1,SILVER,40,petrol,2012,3.75,Maruti Suzuki-Swift Dzire
+Hyderabad,hatchback,automatic,1,grey,72,petrol,2016,4.26287,Maruti Suzuki-Wagon R 1.0
+Hyderabad,suv,manual,1,silver,77,diesel,2019,10.89,Mahindra-XUV 300
+Pune,sedan,automatic,1,silver,20,petrol,2020,8.99111,Maruti Suzuki-Ciaz
+Chennai,sedan,manual,1,maroon,85,diesel,2015,4.99,Honda-Amaze
+Hyderabad,suv,manual,1,blue,21,petrol,2022,18.90623,Mahindra-XUV700
+Chennai,muv,automatic,1,white,16,petrol,2022,17.57258,Kia-Carens
+Hyderabad,suv,manual,1,blue,27,petrol,2021,8.7354,Renault-Kiger
+Delhi,suv,manual,1,grey,20,petrol,2021,12.14039,Kia-Seltos
+Pune,sedan,manual,1,grey,62,petrol+cng,2012,4.46614,Hyundai-Verna
+Bangalore,suv,automatic,2,black,31,petrol,2017,10.58895,Hyundai-Creta
+Kolkata,hatchback,manual,1,red,17,petrol,2021,6.82,Maruti Suzuki-Baleno
+Hyderabad,suv,automatic,1,blue,9,petrol,2022,23.52,Mahindra-XUV700
+Delhi,suv,manual,1,orange,80,petrol,2019,5.88,Tata-Nexon
+Bangalore,hatchback,automatic,1,white,15,petrol,2018,5.08238,Hyundai-New Santro 1.1
+Pune,hatchback,automatic,1,silver,60,petrol,2013,2.87449,Nissan-Micra
+Pune,hatchback,manual,2,blue,62,petrol,2012,2.83735,Maruti Suzuki-Wagon R 1.0
+Bangalore,hatchback,manual,2,grey,46,petrol,2013,2.46,Maruti Suzuki-Alto 800
+Bangalore,sedan,automatic,1,silver,78,diesel,2012,5.55861,Hyundai-Verna
+Delhi,suv,manual,1,white,55,petrol,2019,11.25,Kia-Seltos
+Pune,hatchback,automatic,1,blue,9,petrol,2019,4.59,Renault-Kwid
+Pune,sedan,manual,1,grey,12,petrol,2015,5.12,Honda-Amaze
+Bangalore,hatchback,manual,3,silver,107,petrol,2013,2.62,Hyundai-i10
+Hyderabad,suv,manual,1,blue,8,petrol,2022,12.59373,Maruti Suzuki-Brezza
+Pune,hatchback,manual,1,blue,79,petrol,2011,2.36,Maruti Suzuki-Wagon R 1.0
+Bangalore,hatchback,manual,1,grey,31,petrol,2018,2.6,Datsun-Redi-GO
+Hyderabad,hatchback,manual,1,white,8,petrol,2022,4.07,Maruti Suzuki-Alto 800
+Hyderabad,suv,manual,1,white,118,diesel,2016,6.73258,Mahindra-TUV300
+Hyderabad,hatchback,manual,1,grey,103,petrol,2014,4.45,Hyundai-Grand i10
+Bangalore,hatchback,automatic,1,bronze,56,petrol,2018,4.14,Renault-Kwid
+Chennai,muv,manual,1,red,31,petrol,2022,16.59,Kia-Carens
+Bangalore,hatchback,manual,2,grey,66,petrol,2016,3.09,Renault-Kwid
+Pune,suv,manual,2,blue,29,diesel,2019,8.81,Nissan-Kicks
+Pune,hatchback,manual,1,silver,25,petrol,2017,5.4,Maruti Suzuki-Swift
+Delhi,hatchback,manual,1,white,12,petrol,2020,6.20373,Maruti Suzuki-Baleno
+Chennai,suv,manual,2,white,46,diesel,2019,11.48,Hyundai-Creta
+Bangalore,hatchback,automatic,1,white,22,petrol,2023,12.12929,Hyundai-New i20
+Chennai,hatchback,automatic,1,blue,61,petrol,2018,6.98,Maruti Suzuki-Baleno
+Hyderabad,hatchback,manual,1,silver,28,petrol,2020,6.23,Hyundai-Grand i10 Nios
+Chennai,crossover,manual,1,grey,54,petrol,2017,4.99,Mahindra-KUV100 NXT
+Delhi,hatchback,manual,1,grey,16,petrol,2022,5.1,Maruti Suzuki-Celerio
+Kolkata,sedan,automatic,1,PURE_SILVER,33,petrol,2021,5.52,Tata-Tigor
+Chennai,suv,manual,1,SILVER,137,diesel,2014,4.73,Nissan-Terrano
+Delhi,suv,manual,1,silver,47,petrol,2021,5.90805,Renault-Kiger
+Delhi,suv,manual,1,white,61,diesel,2020,13.29,Kia-Seltos
+Hyderabad,suv,manual,1,blue,43,petrol,2021,9.51341,Hyundai-Venue
+Kolkata,hatchback,manual,1,silver,79,petrol,2017,2.33,Maruti Suzuki-Alto 800
+Bangalore,hatchback,manual,1,white,8,petrol,2021,5.89,Hyundai-New Santro 1.1
+Bangalore,suv,manual,1,red,109,diesel,2017,9.97,Hyundai-Creta
+Bangalore,sedan,manual,2,red,28,petrol,2016,6.75,Hyundai-Fluidic Verna 4S
+Bangalore,hatchback,manual,1,red,37,petrol,2019,5.98,Hyundai-Grand i10
+Pune,hatchback,manual,1,white,4,petrol,2022,6.12,Maruti Suzuki-Wagon R 1.2
+Chennai,suv,manual,2,orange,33,petrol,2017,6.04305,Renault-Duster
+Bangalore,hatchback,automatic,1,bronze,8,petrol,2019,4.8,Renault-Kwid
+Pune,hatchback,automatic,1,red,87,petrol,2017,6.03,Maruti Suzuki-Baleno
+Bangalore,sedan,automatic,1,beige,132,diesel,2015,6.37,Volkswagen-Vento
+Hyderabad,hatchback,manual,2,red,81,diesel,2015,6.27435,Hyundai-Elite i20
+Hyderabad,sedan,automatic,1,brown,9,petrol,2022,8.4793,Hyundai-Aura
+Pune,sedan,automatic,2,black,65,diesel,2015,16.9,BMW-3 Series
+Bangalore,hatchback,manual,2,red,38,petrol,2011,3.72,Hyundai-i20
+Hyderabad,sedan,automatic,1,silver,47,petrol,2019,7.62522,Skoda-Rapid New
+Chennai,suv,manual,1,orange,98,diesel,2018,7.14,Renault-Captur
+Pune,sedan,manual,1,white,53,petrol,2020,7.42,Hyundai-Aura
+Hyderabad,muv,manual,1,grey,18,petrol,2022,5.38,Maruti Suzuki-Eeco
+Pune,hatchback,manual,1,blue,91,petrol,2012,2.61,Maruti Suzuki-Wagon R 1.0
+Pune,hatchback,manual,2,grey,45,petrol,2011,1.5,Chevrolet-Spark
+Hyderabad,hatchback,manual,1,grey,40,petrol,2018,3.57,Maruti Suzuki-Alto 800
+Delhi,hatchback,manual,1,red,39,petrol,2021,5.56677,Maruti Suzuki-Swift
+Delhi,hatchback,manual,2,white,124,petrol,2011,1.95,Maruti Suzuki-Swift
+Hyderabad,sedan,manual,3,grey,80,petrol,2013,3.21,Nissan-Sunny
+Hyderabad,suv,automatic,2,white,28,petrol,2020,19.53199,Skoda-Karoq
+Kolkata,hatchback,manual,1,silver,47,petrol,2010,1.72,Maruti Suzuki-A-Star
+Pune,hatchback,manual,1,red,46,petrol,2011,3.34313,Hyundai-i20
+Hyderabad,sedan,automatic,1,grey,66,petrol,2019,8.87,Maruti Suzuki-Ciaz
+Chennai,hatchback,manual,1,red,36,petrol,2019,4.10579,Renault-Kwid
+Delhi,suv,manual,1,grey,18,petrol,2022,10.52323,Maruti Suzuki-Brezza
+Hyderabad,suv,automatic,1,blue,24,petrol,2022,15.83264,Mahindra-Thar
+Delhi,hatchback,manual,1,red,52,petrol+cng,2016,5.44303,Hyundai-Elite i20
+Bangalore,hatchback,manual,1,silver,112,petrol,2012,2.33206,Hyundai-Eon
+Pune,suv,manual,1,white,94,petrol,2019,7.72,Tata-Nexon
+Delhi,suv,automatic,1,white,18,petrol,2021,7.4047,Renault-Kiger
+Chennai,suv,manual,1,white,70,diesel,2018,7.66,Honda-WR-V
+Hyderabad,hatchback,manual,1,silver,65,petrol,2015,4.35,Hyundai-Grand i10
+Bangalore,suv,manual,1,white,63,petrol,2016,6.75,Honda-BR-V
+Pune,suv,manual,1,orange,44,petrol,2016,6.1671,Renault-Duster
+Bangalore,hatchback,automatic,1,white,41,petrol,2017,5.57,Maruti Suzuki-Ignis
+Pune,hatchback,manual,2,grey,80,petrol,2014,3.68852,Hyundai-Grand i10
+Hyderabad,muv,manual,1,brown,30,petrol,2022,6.75,Renault-Triber
+Bangalore,suv,manual,1,black,39,petrol,2021,17.2,Jeep-Compass
+Delhi,hatchback,manual,2,grey,45,petrol,2016,4.2548,Maruti Suzuki-Baleno
+Pune,hatchback,manual,2,white,100,diesel,2012,1.97,Chevrolet-Sail U-VA
+Delhi,suv,manual,1,white,56,petrol,2021,8.2429,Tata-Nexon
+Pune,hatchback,manual,1,grey,87,diesel,2013,3.76,Hyundai-Grand i10
+Bangalore,suv,manual,1,WHITE,86,diesel,2017,10.31,Mahindra-XUV500
+Bangalore,suv,automatic,1,red,30,petrol,2020,11.04814,Hyundai-Venue
+Delhi,hatchback,automatic,1,red,14,petrol,2021,4.54097,Renault-Kwid
+Delhi,hatchback,manual,1,blue,68,petrol,2019,6.53,Maruti Suzuki-Baleno
+Delhi,hatchback,manual,1,white,33,petrol,2020,3.69568,Renault-Kwid
+Bangalore,hatchback,manual,1,black,80,petrol,2012,3.1,Hyundai-i10
+Hyderabad,hatchback,manual,2,silver,108,petrol,2011,1.8,Maruti Suzuki-Alto K10
+Bangalore,sedan,manual,1,white,33,petrol,2021,11.70493,Hyundai-Verna
+Bangalore,hatchback,manual,1,black,29,petrol,2013,3.99,Hyundai-Grand i10
+Hyderabad,suv,manual,1,black,26,diesel,2022,10.91713,Mahindra-XUV 300
+Chennai,sedan,manual,1,grey,23,petrol,2022,13.82564,Skoda-Slavia
+Bangalore,muv,automatic,1,grey,69,diesel,2017,18.98901,Toyota-Innova Crysta
+Hyderabad,sedan,manual,1,white,83,diesel,2015,4.59,Honda-Amaze
+Bangalore,suv,manual,1,silver,44,diesel,2020,10.92678,Ford-EcoSport
+Bangalore,hatchback,manual,1,white,86,petrol,2018,3.57,Maruti Suzuki-Alto K10
+Bangalore,suv,automatic,1,red,99,petrol,2016,10.03523,Hyundai-Creta
+Kolkata,hatchback,manual,1,red,70,petrol,2013,3.39,Maruti Suzuki-Swift
+Bangalore,suv,manual,1,silver,57,petrol,2016,9.69,Hyundai-Creta
+Chennai,suv,manual,1,golden,17,petrol,2018,7.48,Honda-WR-V
+Chennai,hatchback,manual,1,blue,3,petrol,2021,4.69,Renault-Kwid
+Kolkata,hatchback,manual,1,red,25,petrol,2019,3.5406,Maruti Suzuki-Alto K10
+Chennai,suv,automatic,2,red,51,petrol,2018,14.04015,Jeep-Compass
+Kolkata,suv,manual,1,white,8,petrol,2021,6.92,Renault-Kiger
+Kolkata,suv,automatic,2,silver,74,diesel,2015,9.26,Mahindra-XUV500
+Pune,hatchback,manual,1,blue,99,petrol+cng,2011,2.69,Maruti Suzuki-Wagon R 1.0
+Bangalore,hatchback,automatic,1,grey,113,petrol,2017,3.59,Maruti Suzuki-Alto K10
+Hyderabad,suv,manual,1,PEARL ARCTIC WHITE,101,diesel,2018,8.68,Maruti Suzuki-S-Cross
+Hyderabad,hatchback,manual,1,silver,23,petrol,2015,2.82,Maruti Suzuki-Alto 800
+Pune,hatchback,manual,1,silver,43,petrol,2016,3.20904,Renault-Kwid
+Delhi,suv,manual,1,black,24,diesel,2020,13.49263,Mahindra-Thar
+Chennai,hatchback,manual,2,white,37,petrol,2018,3.78,Renault-Kwid
+Chennai,sedan,automatic,1,brown,101,petrol,2015,6.75,Honda-City
+Hyderabad,hatchback,manual,1,white,20,petrol,2014,3.09692,Maruti Suzuki-Alto K10
+Delhi,hatchback,manual,1,white,64,petrol+cng,2019,4.87429,Maruti Suzuki-Wagon R 1.0
+Hyderabad,suv,manual,1,white,98,diesel,2021,8.2,Honda-WR-V
+Bangalore,suv,manual,1,silver,29,petrol,2022,7.04983,Renault-Kiger
+Hyderabad,suv,manual,1,blue,73,diesel,2018,7.72,Ford-EcoSport
+Chennai,hatchback,manual,1,blue,13,petrol,2022,4.99,Renault-Kwid
+Hyderabad,hatchback,manual,1,silver,39,petrol,2014,3.72,Maruti Suzuki-Wagon R 1.0
+Hyderabad,hatchback,manual,1,maroon,32,petrol,2020,5.15904,Hyundai-New Santro 1.1
+Bangalore,hatchback,automatic,1,white,46,petrol,2017,4.96,Maruti Suzuki-Celerio
+Hyderabad,suv,manual,1,brown,23,petrol,2021,8.29,Honda-WR-V
+Bangalore,hatchback,manual,1,bronze,26,petrol,2019,4.5,Renault-Kwid
+Pune,hatchback,automatic,1,grey,36,petrol,2014,3.99,Maruti Suzuki-Celerio
+Chennai,hatchback,automatic,1,grey,5,petrol,2023,9.68,Tata-Altroz
+Delhi,hatchback,manual,1,silver,39,petrol,2019,5.21,Volkswagen-Polo
+Pune,hatchback,manual,1,white,72,petrol,2017,3.12,Hyundai-Eon
+Delhi,suv,manual,1,grey,11,petrol,2022,5.44314,Tata-Punch
+Pune,sedan,manual,1,grey,38,petrol+cng,2019,6.13,Hyundai-Xcent
+Hyderabad,muv,automatic,1,grey,20,petrol,2022,14.53248,Maruti Suzuki-XL6
+Bangalore,hatchback,automatic,1,grey,8,petrol,2022,8.67,Maruti Suzuki-Swift
+Pune,suv,manual,1,NEW PEARL WHITE,79,diesel,2017,9.98,Mahindra-XUV500
+Chennai,sedan,manual,2,red,23,petrol,2019,8.01044,Maruti Suzuki-Ciaz
+Bangalore,hatchback,manual,2,red,74,petrol,2011,2.54795,Maruti Suzuki-Estilo
+Pune,sedan,manual,1,red,36,diesel,2019,10.93983,Hyundai-Verna
+Pune,sedan,manual,2,white,111,petrol,2011,2.97,Maruti Suzuki-Swift Dzire
+Bangalore,suv,automatic,1,red,11,petrol,2021,9.99,Renault-Kiger
+Bangalore,hatchback,manual,1,red,4,petrol,2020,7.68,Hyundai-Grand i10 Nios
+Hyderabad,muv,manual,2,maroon,32,petrol,2016,3.45,Datsun-Go Plus
+Chennai,suv,manual,1,brown,8,petrol,2022,7.60443,Renault-Kiger
+Hyderabad,hatchback,manual,1,blue,27,petrol+cng,2022,7.52,Hyundai-Grand i10 Nios
+Hyderabad,hatchback,manual,1,silver,38,petrol,2018,6.96,Maruti Suzuki-Swift
+Kolkata,hatchback,manual,1,green,14,petrol,2021,5.89,Tata-Tiago NRG
+Pune,hatchback,automatic,1,white,8,petrol,2021,9.97,Hyundai-New i20
+Pune,suv,automatic,1,white,30,petrol,2021,13.52293,Volkswagen-Taigun
+Delhi,sedan,manual,1,white,64,petrol,2017,4.69,Maruti Suzuki-Swift Dzire
+Delhi,suv,manual,1,silver,19,petrol,2018,6.92,Honda-WR-V
+Kolkata,muv,manual,1,grey,10,petrol,2021,4.99,Datsun-Go Plus
+Delhi,hatchback,manual,2,white,71,petrol,2013,2.50535,Honda-Brio
+Delhi,hatchback,automatic,1,yellow,42,petrol,2021,6.3,Tata-Tiago
+Hyderabad,hatchback,manual,2,grey,46,petrol,2018,3.39,Hyundai-Eon
+Bangalore,sedan,manual,1,silver,142,diesel,2014,4.41,Nissan-Sunny
+Delhi,muv,manual,2,red,17,petrol,2022,13.78069,Kia-Carens
+Kolkata,sedan,automatic,2,white,36,petrol,2016,8.99,Skoda-Octavia
+Delhi,sedan,manual,3,silver,93,petrol,2011,2.35,Honda-City
+Bangalore,sedan,manual,1,red,33,petrol,2014,4.62,Honda-Amaze
+Bangalore,suv,automatic,1,grey,112,diesel,2016,9.54,Hyundai-Creta
+Hyderabad,hatchback,automatic,1,grey,28,petrol,2020,6.6747,Maruti Suzuki-Swift
+Kolkata,suv,manual,1,orange,28,petrol,2021,14.53293,Skoda-Kushaq
+Delhi,suv,manual,1,brown,16,petrol,2021,6.99,Renault-Kiger
+Bangalore,hatchback,manual,1,grey,72,petrol,2016,3.37,Maruti Suzuki-Alto K10
+Pune,suv,manual,1,orange,104,diesel,2015,5.49766,Ford-EcoSport
+Hyderabad,hatchback,manual,3,white,60,petrol,2016,3.39,Nissan-Micra Active
+Pune,hatchback,manual,1,silver,64,petrol,2012,2.41,Maruti Suzuki-A-Star
+Bangalore,hatchback,manual,1,red,57,petrol,2015,3.95,Hyundai-i10
+Pune,hatchback,manual,1,white,122,petrol,2014,2.98,Hyundai-i10
+Delhi,hatchback,manual,1,silver,31,petrol,2012,2.59,Honda-Brio
+Pune,hatchback,automatic,1,grey,97,petrol,2014,3.68,Maruti Suzuki-Celerio
+Chennai,suv,automatic,1,blue,12,petrol,2022,13.4878,Hyundai-Venue N-Line
+Pune,sedan,automatic,1,silver,72,diesel,2019,6.21,Tata-Zest
+Delhi,suv,manual,1,white,71,diesel,2020,12.90683,Mahindra-Scorpio
+Bangalore,suv,manual,1,brown,77,diesel,2016,6.80375,Maruti Suzuki-S-Cross
+Bangalore,hatchback,manual,1,brown,50,petrol,2011,2.5,Maruti Suzuki-Estilo
+Pune,hatchback,manual,1,silver,56,petrol,2017,3.33394,Hyundai-Eon
+Pune,sedan,automatic,1,white,142,petrol,2016,6.97,Honda-City
+Bangalore,hatchback,automatic,1,silver,39,petrol,2015,4.70304,Honda-Brio
+Bangalore,hatchback,manual,2,red,63,petrol,2010,2.44,Hyundai-i10
+Bangalore,hatchback,automatic,2,silver,51,petrol,2013,3.29258,Maruti Suzuki-A-Star
+Pune,sedan,manual,3,white,88,diesel,2011,3.75,Hyundai-Verna
+Pune,sedan,manual,1,white,27,petrol,2021,12.51,Honda-City
+Kolkata,hatchback,manual,1,red,15,petrol,2022,9.24,Hyundai-i20 N Line
+Hyderabad,sedan,manual,1,grey,11,petrol,2022,13.36,Honda-City
+Chennai,suv,manual,1,black,11,petrol,2022,10.62468,Mahindra-XUV 300
+Hyderabad,hatchback,manual,1,grey,74,petrol,2015,3.54,Maruti Suzuki-Wagon R 1.0
+Hyderabad,hatchback,manual,1,RED P,42,petrol,2016,6.69,Hyundai-Elite i20
+Bangalore,hatchback,manual,2,bronze,76,diesel,2014,5.25038,Hyundai-i20
+Delhi,hatchback,manual,1,white,112,petrol+cng,2014,3.11,Maruti Suzuki-Wagon R 1.0
+Chennai,sedan,manual,1,silver,14,petrol,2021,11.98773,Honda-City
+Delhi,sedan,automatic,1,grey,106,petrol,2018,13.36,Skoda-Octavia
+Delhi,suv,manual,1,red,53,petrol,2017,6.45,Honda-WR-V
+Bangalore,hatchback,automatic,3,bronze,30,petrol,2016,3.37,Renault-Kwid
+Pune,hatchback,manual,2,white,40,petrol,2012,2.1608,Ford-Figo
+Hyderabad,suv,manual,1,white,22,petrol,2019,8.99,Ford-EcoSport
+Kolkata,suv,manual,1,silver,80,diesel,2017,4.95,Renault-Captur
+Bangalore,hatchback,automatic,1,white,13,petrol,2020,9.25393,Honda-Jazz
+Hyderabad,hatchback,manual,1,red,67,petrol,2013,3.60648,Maruti Suzuki-Ritz
+Delhi,suv,automatic,1,silver,27,petrol,2018,10.74,Hyundai-Creta
+Chennai,sedan,manual,1,silver,89,diesel,2014,4.31,Hyundai-Xcent
+Chennai,muv,automatic,1,white,7,petrol,2020,7.08,Renault-Triber
+Pune,suv,automatic,1,grey,133,diesel,2016,6.48,Renault-Duster
+Bangalore,sedan,manual,1,red,53,diesel,2016,8.00251,Honda-City
+Hyderabad,hatchback,manual,2,white,20,petrol,2022,7.78,Hyundai-New i20
+Chennai,suv,manual,1,blue,10,petrol,2022,8.82269,Renault-Kiger
+Hyderabad,suv,manual,1,white,24,petrol,2021,9.82168,Maruti Suzuki-Vitara Brezza
+Bangalore,hatchback,manual,1,silver,13,petrol+cng,2021,4.37,Maruti Suzuki-Alto 800
+Delhi,sedan,manual,1,silver,87,petrol,2017,6.18585,Honda-City
+Bangalore,hatchback,automatic,1,blue,37,petrol,2019,4.73,Renault-Kwid
+Delhi,hatchback,manual,1,RED PASSION,63,petrol,2014,4.77,Hyundai-Elite i20
+Bangalore,sedan,automatic,1,red,26,petrol,2022,14.95,Honda-City
+Bangalore,sedan,manual,1,grey,71,petrol,2016,5.57,Volkswagen-Ameo
+Hyderabad,hatchback,manual,1,grey,24,petrol,2021,4.68,Maruti Suzuki-S-Presso
+Pune,sedan,manual,1,white,49,petrol,2015,4.7,Maruti Suzuki-Swift Dzire
+Bangalore,hatchback,manual,2,white,45,petrol,2011,2.49961,Ford-Figo
+Delhi,muv,manual,1,silver,51,petrol,2012,5.19,Maruti Suzuki-Ertiga
+Pune,hatchback,manual,1,white,56,petrol,2012,3.60461,Maruti Suzuki-Swift
+Chennai,sedan,manual,1,silver,45,petrol,2014,4.83,Maruti Suzuki-Swift Dzire
+Bangalore,hatchback,manual,1,white,127,diesel,2016,6.39,Hyundai-Elite i20
+Kolkata,hatchback,manual,1,beige,6,petrol,2022,5.34,Maruti Suzuki-Wagon R 1.0
+Delhi,sedan,manual,1,grey,39,petrol,2019,5.55391,Hyundai-Xcent
+Chennai,muv,automatic,1,black,6,petrol,2023,17.94936,Kia-Carens
+Hyderabad,sedan,automatic,1,grey,86,diesel,2016,6.21174,Maruti Suzuki-Swift Dzire
+Bangalore,sedan,manual,1,silver,80,petrol,2014,6.19,Honda-City
+Hyderabad,muv,manual,1,grey,30,petrol,2020,4.95986,Maruti Suzuki-Eeco
+Delhi,sedan,automatic,1,white,65,petrol,2019,9.14,Volkswagen-Vento
+Delhi,sedan,automatic,1,grey,50,diesel,2020,42.9,BMW-5 Series
+Hyderabad,hatchback,manual,2,grey,120,diesel,2017,5.68,Volkswagen-Polo
+Delhi,hatchback,manual,1,grey,34,petrol,2014,3.97,Hyundai-Grand i10
+Pune,sedan,manual,1,silver,10,petrol,2018,8.17,Honda-City
+Hyderabad,hatchback,manual,2,white,31,petrol,2017,5.29949,Honda-Brio
+Pune,hatchback,manual,2,brown,58,petrol+cng,2016,5.32,Volkswagen-Polo
+Bangalore,hatchback,automatic,1,blue,16,petrol,2020,7.15,Hyundai-Grand i10 Nios
+Pune,hatchback,manual,1,silver,68,petrol+cng,2017,3.25,Renault-Kwid
+Bangalore,hatchback,manual,1,grey,114,petrol,2011,2.83,Hyundai-i10
+Bangalore,suv,automatic,1,black,67,petrol,2019,9.87,Ford-EcoSport
+Chennai,hatchback,automatic,1,white,35,petrol,2019,4.84689,Maruti Suzuki-S-Presso
+Delhi,hatchback,automatic,2,blue,71,petrol,2016,5.00741,Maruti Suzuki-Baleno
+Bangalore,sedan,manual,1,white,79,diesel,2014,5.89002,Maruti Suzuki-Swift Dzire
+Delhi,suv,automatic,1,blue,45,diesel,2019,24.9,BMW-X1
+Chennai,suv,manual,1,white,27,diesel,2022,18.90939,Tata-Safari
+Chennai,sedan,manual,1,red,104,petrol,2015,4.54,Honda-Amaze
+Pune,hatchback,manual,1,grey,37,petrol,2015,2.61,Maruti Suzuki-Alto 800
+Chennai,hatchback,automatic,1,grey,30,petrol,2016,6.08494,Maruti Suzuki-Baleno
+Pune,sedan,manual,1,white,23,petrol,2022,9.42,Volkswagen-Vento
+Hyderabad,suv,automatic,1,red,29,petrol,2022,10.31,Renault-Kiger
+Pune,crossover,manual,2,white,51,petrol,2018,3.90594,Mahindra-KUV100 NXT
+Bangalore,hatchback,manual,1,golden,40,petrol,2019,5.1,Hyundai-New Santro 1.1
+Bangalore,hatchback,manual,1,grey,3,petrol,2023,7.28,Maruti Suzuki-Wagon R 1.2
+Pune,sedan,automatic,1,white,39,petrol,2021,12.97,Honda-City
+Pune,hatchback,manual,1,grey,32,petrol,2011,1.58,Chevrolet-Spark
+Hyderabad,hatchback,manual,1,grey,41,petrol,2016,5.49,Hyundai-Elite i20
+Bangalore,hatchback,manual,1,grey,34,petrol,2019,4.08384,Maruti Suzuki-Alto K10
+Kolkata,suv,manual,1,blue,15,petrol,2020,7.16,Tata-Nexon
+Chennai,suv,manual,1,red,19,petrol,2021,7.30918,Nissan-Magnite
+Pune,suv,manual,2,white,68,diesel,2016,9.39,Hyundai-Creta
+Hyderabad,hatchback,automatic,1,grey,30,petrol,2016,4.59265,Maruti Suzuki-Wagon R 1.0
+Chennai,suv,automatic,1,white,8,petrol,2023,9.98,Tata-Nexon
+Kolkata,sedan,automatic,2,black,18,petrol,2021,8.54688,Maruti Suzuki-Ciaz
+Bangalore,sedan,automatic,2,white,35,petrol,2017,37.9,Mercedes-Benz-E-Class
+Pune,suv,automatic,2,brown,92,petrol,2016,6.87803,Honda-BR-V
+Pune,sedan,manual,2,blue,57,petrol,2014,3.92611,Hyundai-Xcent
+Hyderabad,sedan,automatic,1,white,39,petrol,2017,9.6,Honda-City
+Delhi,hatchback,manual,1,silver,81,petrol,2016,4.46765,Maruti Suzuki-Swift
+Delhi,hatchback,manual,1,silver,54,petrol,2017,5.76556,Hyundai-Elite i20
+Delhi,sedan,manual,1,white,69,petrol,2014,5.32,Honda-City
+Bangalore,suv,automatic,1,brown,30,petrol,2021,7.95,Nissan-Magnite
+Bangalore,hatchback,manual,1,red,68,diesel,2017,5.64,Hyundai-Grand i10
+Chennai,sedan,manual,1,blue,102,diesel,2015,4.18,Hyundai-Xcent
+Pune,hatchback,automatic,1,grey,30,petrol,2021,9.07,Honda-Jazz
+Hyderabad,hatchback,manual,1,red,40,petrol,2022,4.49544,Renault-Kwid
+Hyderabad,suv,automatic,1,maroon,42,diesel,2020,15.28,Kia-Seltos
+Bangalore,hatchback,automatic,1,red,30,petrol,2016,4.00979,Maruti Suzuki-Alto K10
+Hyderabad,suv,manual,1,blue,36,diesel,2019,9.49,Maruti Suzuki-S-Cross
+Bangalore,hatchback,manual,1,red,5,petrol,2022,8.42,Hyundai-New i20
+Pune,hatchback,manual,1,white,73,petrol,2011,2.36694,Hyundai-i10
+Pune,sedan,automatic,1,white,89,diesel,2017,4.97,Tata-Zest
+Delhi,muv,manual,1,SILKY SILV,52,petrol,2012,4.66,Maruti Suzuki-Ertiga
+Bangalore,hatchback,automatic,1,orange,81,petrol,2016,6.3883,Maruti Suzuki-Baleno
+Hyderabad,hatchback,manual,1,white,58,petrol,2016,2.19469,Datsun-Redi-GO
+Hyderabad,sedan,manual,1,red,135,petrol,2014,3.39593,Hyundai-Xcent
+Chennai,muv,automatic,1,silver,6,petrol,2023,15.66851,Maruti Suzuki-XL6
+Hyderabad,hatchback,manual,2,grey,46,petrol,2016,5.39623,Honda-Jazz
+Chennai,suv,manual,1,white,48,petrol,2018,10.99,Hyundai-Creta
+Delhi,hatchback,manual,1,grey,48,petrol+cng,2018,4.27,Maruti Suzuki-Wagon R 1.0
+Pune,hatchback,manual,1,red,65,petrol,2014,4.34,Hyundai-Grand i10
+Kolkata,hatchback,manual,1,grey,22,petrol,2022,3.92,Maruti Suzuki-Alto 800
+Bangalore,hatchback,automatic,1,red,48,petrol,2021,10.49264,Hyundai-New i20
+Bangalore,hatchback,automatic,3,blue,26,petrol,2015,3.95195,Maruti Suzuki-Celerio
+Hyderabad,suv,manual,1,red,83,diesel,2018,11.16,Hyundai-Creta
+Hyderabad,hatchback,manual,1,red,34,petrol,2019,3.64,Renault-Kwid
+Kolkata,hatchback,manual,1,grey,52,petrol,2019,4.19,Maruti Suzuki-Wagon R 1.0
+Hyderabad,hatchback,manual,1,grey,10,petrol,2022,5.97,Maruti Suzuki-Wagon R 1.2
+Bangalore,suv,manual,1,white,30,petrol,2018,8.75267,Ford-EcoSport
+Bangalore,hatchback,manual,1,red,26,petrol,2011,2.63,Maruti Suzuki-Estilo
+Hyderabad,hatchback,manual,1,red,73,diesel,2012,3.94907,Maruti Suzuki-Swift
+Kolkata,suv,automatic,1,PHANTOM BLACK,68,diesel,2019,10.34,Hyundai-Creta
+Hyderabad,hatchback,automatic,1,orange,17,petrol,2021,6.78,Maruti Suzuki-Ignis
+Chennai,hatchback,manual,1,brown,67,petrol,2016,5.31364,Honda-Jazz
+Delhi,suv,manual,1,blue,94,petrol,2018,5.86,Tata-Nexon
+Delhi,hatchback,manual,1,red,38,petrol,2010,1.68,Hyundai-i10
+Hyderabad,suv,manual,1,white,16,petrol,2021,5.72,Renault-Kiger
+Pune,sedan,manual,2,brown,88,petrol,2017,5.97259,Maruti Suzuki-Ciaz
+Bangalore,suv,manual,1,blue,59,diesel,2017,11.76465,Hyundai-Creta
+Hyderabad,suv,manual,1,blue,19,petrol,2020,9.68,Hyundai-Venue
+Bangalore,hatchback,manual,1,orange,54,petrol,2015,5.43,Honda-Jazz
+Pune,sedan,manual,2,brown,69,petrol,2016,5.76498,Maruti Suzuki-Ciaz
+Chennai,hatchback,manual,1,brown,77,diesel,2017,5.22,Tata-Tiago
+Hyderabad,hatchback,manual,1,red,39,petrol,2015,2.76,Maruti Suzuki-Alto 800
+Kolkata,hatchback,manual,1,green,39,petrol,2020,3.5,Renault-Kwid
+Chennai,hatchback,manual,1,blue,10,petrol,2022,7.22,Maruti Suzuki-Ignis
+Bangalore,sedan,manual,1,white,2,petrol+cng,2024,9.92,Maruti Suzuki-Dzire
+Chennai,suv,manual,1,silver,52,petrol,2014,4.82,Ford-EcoSport
+Bangalore,hatchback,automatic,1,blue,11,petrol,2018,4.59,Renault-Kwid
+Pune,crossover,manual,1,white,12,petrol,2021,7.39,Ford-Freestyle
+Hyderabad,hatchback,manual,2,white,28,petrol,2016,3.19,Renault-Kwid
+Delhi,hatchback,manual,1,white,111,petrol,2015,4.39,Hyundai-Elite i20
+Pune,hatchback,automatic,2,beige,38,petrol,2017,4.53573,Tata-Tiago
+Bangalore,sedan,manual,1,grey,30,petrol,2016,4.67,Tata-Zest
+Bangalore,hatchback,automatic,2,brown,4,petrol,2022,5.45,Renault-Kwid
+Pune,hatchback,manual,1,silver,16,petrol,2019,6.59585,Maruti Suzuki-Baleno
+Bangalore,hatchback,manual,1,blue,91,petrol,2016,3.94,Maruti Suzuki-Wagon R 1.0
+Chennai,suv,automatic,1,white,23,petrol,2022,8.48,Renault-Kiger
+Delhi,hatchback,automatic,1,blue,26,petrol,2020,5.39476,Maruti Suzuki-Ignis
+Chennai,suv,manual,1,grey,34,diesel,2021,9.43,Tata-Nexon
+Hyderabad,hatchback,manual,3,white,82,diesel,2014,3.06453,Maruti Suzuki-Ritz
+Bangalore,hatchback,manual,2,grey,43,petrol,2016,3.27637,Maruti Suzuki-Alto K10
+Hyderabad,crossover,manual,1,black,121,diesel,2016,6.39,Hyundai-i20 Active
+Delhi,sedan,manual,2,white,59,petrol,2018,4.72028,Honda-Amaze
+Hyderabad,hatchback,manual,1,white,99,diesel,2015,3.97,Hyundai-Grand i10
+Hyderabad,hatchback,manual,2,red,20,petrol,2017,3.12941,Datsun-GO
+Bangalore,hatchback,manual,2,brown,83,petrol,2016,5.13,Honda-Jazz
+Bangalore,hatchback,manual,1,silver,36,petrol,2017,4.24,Nissan-Micra
+Hyderabad,suv,manual,1,grey,41,petrol,2022,8.55998,Honda-WR-V
+Pune,suv,manual,1,white,46,petrol+cng,2018,8.19135,Tata-Nexon
+Kolkata,hatchback,manual,1,silver,116,diesel,2014,2.18,Maruti Suzuki-Ritz
+Delhi,suv,manual,1,grey,28,petrol,2021,8.95,Tata-Nexon
+Pune,crossover,manual,1,brown,37,petrol,2015,5.22683,Hyundai-i20 Active
+Bangalore,suv,manual,1,white,22,petrol,2018,11.95,Hyundai-Creta
+Kolkata,suv,manual,1,red,27,diesel,2018,6.79,Maruti Suzuki-Vitara Brezza
+Kolkata,hatchback,manual,1,BR GREY 3,37,petrol,2018,2.4,Datsun-Redi-GO
+Pune,sedan,automatic,2,beige,122,diesel,2014,3.93,Tata-Zest
+Pune,hatchback,manual,1,grey,38,petrol,2018,6.57613,Maruti Suzuki-Baleno
+Delhi,hatchback,manual,1,silver,51,diesel,2019,6.89,Hyundai-Elite i20
+Hyderabad,sedan,manual,1,red,72,diesel,2015,6.58,Honda-City
+Bangalore,suv,manual,2,brown,93,diesel,2016,9.09261,Hyundai-Creta
+Kolkata,suv,automatic,2,blue,27,petrol,2020,8.51916,Hyundai-Venue
+Delhi,hatchback,manual,2,white,7,petrol,2022,7.39,Tata-Altroz
+Chennai,suv,automatic,1,blue,29,petrol,2022,19.20923,Mahindra-XUV700
+Bangalore,hatchback,manual,1,grey,13,petrol,2021,4.11382,Maruti Suzuki-Alto 800
+Bangalore,hatchback,manual,1,blue,37,petrol,2016,6.2,Maruti Suzuki-Baleno
+Bangalore,muv,manual,2,white,17,petrol,2014,5.29,Honda-Mobilio
+Bangalore,hatchback,manual,1,silver,88,petrol,2011,2.90007,Hyundai-i10
+Bangalore,hatchback,automatic,1,red,53,petrol,2021,9.07,Honda-Jazz
+Chennai,sedan,manual,2,silver,100,petrol,2012,3.69,Toyota-Etios
+Delhi,hatchback,manual,1,white,70,petrol,2014,4.80637,Hyundai-Elite i20
+Hyderabad,sedan,automatic,1,white,53,petrol,2018,6.92092,Honda-Amaze
+Bangalore,sedan,manual,2,grey,22,petrol,2014,4.59,Honda-Amaze
+Hyderabad,hatchback,manual,2,silver,17,petrol,2021,4.41567,Renault-Kwid
+Hyderabad,hatchback,manual,1,red,99,diesel,2011,3.63,Maruti Suzuki-Swift
+Pune,sedan,manual,2,grey,107,petrol,2016,4.13,Volkswagen-Ameo
+Hyderabad,suv,automatic,2,black,60,petrol,2017,10.41844,Hyundai-Creta
+Bangalore,hatchback,manual,2,bronze,46,petrol,2018,3.72,Renault-Kwid
+Pune,hatchback,automatic,1,red,8,petrol,2021,4.94,Renault-Kwid
+Pune,sedan,manual,1,white,64,petrol,2018,7.46,Hyundai-Verna
+Hyderabad,suv,manual,1,grey,56,petrol,2022,8.87,Tata-Nexon
+Kolkata,sedan,manual,1,brown,52,petrol,2019,7.47,Hyundai-Verna
+Bangalore,sedan,automatic,1,white,14,petrol,2023,18.75,Volkswagen-Virtus
+Pune,hatchback,manual,1,grey,43,petrol,2014,3.26931,Hyundai-i10
+Bangalore,sedan,manual,1,red,32,petrol,2020,6.16137,Hyundai-Aura
+Bangalore,hatchback,automatic,1,silver,39,petrol,2018,4.09,Maruti Suzuki-Alto K10
+Kolkata,suv,automatic,1,grey,21,petrol,2021,10.32,Hyundai-Venue
+Bangalore,muv,manual,1,white,42,petrol,2019,6.24832,Renault-Triber
+Delhi,hatchback,manual,1,blue,34,petrol,2017,5.19216,Maruti Suzuki-Baleno
+Bangalore,hatchback,manual,3,silver,59,diesel,2017,4.56,Tata-Tiago
+Hyderabad,hatchback,manual,1,grey,56,petrol,2015,3.08,Hyundai-Eon
+Delhi,hatchback,manual,1,white,24,petrol,2020,5.63,Maruti Suzuki-Swift
+Hyderabad,hatchback,automatic,1,orange,86,petrol,2017,5.17,Maruti Suzuki-Ignis
+Bangalore,sedan,manual,1,silver,45,diesel,2019,6.74,Ford-Figo Aspire
+Chennai,sedan,automatic,1,silver,83,diesel,2016,5.64,Tata-Zest
+Hyderabad,sedan,manual,1,silver,69,petrol,2011,3.95,Hyundai-Verna Transform
+Pune,suv,manual,1,white,30,petrol,2021,13.41999,Kia-Seltos
+Hyderabad,suv,manual,1,white,73,petrol,2020,9.01,Tata-Nexon
+Chennai,suv,automatic,1,green,15,diesel,2022,25.82,Mahindra-Scorpio N
+Hyderabad,suv,manual,1,grey,52,diesel,2021,11.88673,Mahindra-XUV 300
+Hyderabad,suv,manual,1,green,18,petrol,2021,9.97,Tata-Nexon
+Bangalore,suv,automatic,1,black,500,petrol,2023,18.77493,MG Motors-Astor
+Hyderabad,hatchback,manual,1,red,102,diesel,2017,6.95,Hyundai-Elite i20
+Pune,sedan,manual,1,THUNDER BLACK,77,petrol,2018,7.5,Hyundai-Verna
+Bangalore,suv,automatic,1,grey,44,petrol,2020,16.66358,Jeep-Compass
+Kolkata,hatchback,manual,1,beige,34,petrol,2021,6.43,Tata-Altroz
+Bangalore,suv,manual,1,grey,32,diesel,2021,10.32,Mahindra-XUV 300
+Pune,sedan,manual,1,grey,57,petrol,2015,5.01722,Honda-Amaze
+Delhi,suv,manual,1,black,23,diesel,2020,13.36537,Mahindra-Thar
+Hyderabad,suv,manual,1,blue,34,diesel,2019,9.98,Hyundai-Venue
+Delhi,hatchback,manual,1,silver,37,petrol,2010,2.27,Skoda-Fabia
+Delhi,suv,manual,1,white,73,diesel,2018,6.96,Maruti Suzuki-S-Cross
+Pune,sedan,manual,1,white,99,diesel,2013,5.05,Maruti Suzuki-Swift Dzire
+Chennai,hatchback,manual,1,blue,23,petrol,2022,9.28,Hyundai-New i20
+Pune,suv,manual,1,brown,20,petrol,2020,8.95,Renault-Duster
+Hyderabad,suv,manual,1,white,98,diesel,2019,11.7,Mahindra-XUV500
+Bangalore,muv,manual,1,blue,26,petrol,2021,7.48,Renault-Triber
+Delhi,suv,manual,1,grey,29,petrol,2018,9.78,Hyundai-Creta
+Delhi,hatchback,manual,1,red,37,petrol,2016,5.14,Maruti Suzuki-Swift
+Chennai,suv,manual,1,orange,27,diesel,2018,12.06755,Hyundai-Creta
+Delhi,hatchback,manual,1,silver,49,petrol,2017,6.08114,Hyundai-Elite i20
+Bangalore,hatchback,manual,1,red,23,petrol,2021,8.45,Hyundai-New i20
+Delhi,sedan,manual,1,blue,100,petrol,2018,6.84,Maruti Suzuki-Ciaz
+Kolkata,hatchback,manual,1,orange,15,petrol,2022,4.68,Maruti Suzuki-S-Presso
+Bangalore,suv,automatic,1,red,3,petrol,2022,16.88811,Mahindra-Thar
+Hyderabad,suv,manual,1,brown,34,petrol,2022,8.1354,Renault-Kiger
+Kolkata,suv,manual,1,silver,34,petrol,2019,6.76783,Ford-EcoSport
+Hyderabad,hatchback,manual,1,white,112,petrol,2011,1.9378,Maruti Suzuki-Alto K10
+Bangalore,sedan,automatic,1,black,112,diesel,2015,6.15,Volkswagen-Vento
+Bangalore,suv,manual,2,silver,57,diesel,2017,7.57,Honda-WR-V
+Hyderabad,hatchback,manual,2,silver,96,petrol,2017,2.95,Maruti Suzuki-Alto K10
+Hyderabad,hatchback,automatic,2,red,63,petrol,2016,5.88,Maruti Suzuki-Baleno
+Hyderabad,suv,manual,1,grey,71,diesel,2017,7.95,Maruti Suzuki-S-Cross
+Bangalore,hatchback,manual,1,grey,83,petrol,2018,5.98106,Volkswagen-Polo
+Bangalore,sedan,automatic,1,METEOROID GRAY M.,16,petrol,2022,15.31018,Honda-City
+Delhi,hatchback,manual,1,red,37,petrol,2016,2.72,Renault-Kwid
+Pune,suv,automatic,1,black,48,petrol,2021,17.07048,Hyundai-Alcazar
+Kolkata,sedan,manual,1,silver,68,petrol,2016,3.17215,Tata-Zest
+Chennai,hatchback,manual,1,white,122,petrol,2014,4.54,Volkswagen-Polo
+Pune,sedan,automatic,1,brown,65,diesel,2015,5.97,Volkswagen-Vento
+Delhi,suv,manual,1,black,17,petrol,2022,11.0358,MG Motors-Astor
+Kolkata,suv,manual,1,grey,7,petrol,2021,9.11,Mahindra-XUV 300
+Chennai,hatchback,automatic,2,blue,46,petrol,2014,4.39,Hyundai-Grand i10
+Pune,sedan,manual,1,white,111,petrol,2016,5.72565,Honda-City
+Bangalore,suv,automatic,1,red,50,diesel,2017,34.84358,Land Rover-Discovery Sport
+Pune,suv,manual,1,white,80,diesel,2018,11.14,Hyundai-Creta
+Bangalore,suv,manual,1,grey,49,diesel,2016,7.53638,Maruti Suzuki-S-Cross
+Hyderabad,hatchback,automatic,1,white,56,petrol,2020,4.56,Renault-Kwid
+Pune,hatchback,manual,1,white,117,petrol+cng,2014,3.67859,Maruti Suzuki-Celerio
+Bangalore,hatchback,manual,1,blue,52,diesel,2014,4.82707,Hyundai-i20
+Hyderabad,hatchback,manual,1,white,72,petrol,2012,2.84,Maruti Suzuki-Wagon R 1.0
+Bangalore,hatchback,automatic,1,silver,64,petrol,2015,4.19401,Maruti Suzuki-Celerio
+Bangalore,suv,manual,1,grey,60,diesel,2019,9.43,Maruti Suzuki-S-Cross
+Hyderabad,suv,manual,1,blue,3,petrol,2023,19.66833,Mahindra-XUV700
+Pune,hatchback,manual,1,white,39,petrol,2014,4.15,Hyundai-Grand i10
+Chennai,hatchback,manual,1,silver,9,petrol,2018,3.83326,Maruti Suzuki-Alto K10
+Kolkata,suv,manual,1,grey,4,petrol,2021,7.76662,Tata-Punch
+Bangalore,sedan,automatic,1,brown,110,petrol,2015,5.95,Maruti Suzuki-Ciaz
+Pune,hatchback,manual,1,RED P,72,petrol,2016,5.24,Hyundai-Elite i20
+Delhi,sedan,manual,1,silver,71,petrol,2015,3.58,Hyundai-Xcent
+Pune,sedan,manual,2,blue,78,diesel,2014,3.90681,Tata-Zest
+Bangalore,muv,manual,1,blue,12,petrol,2021,7.38,Renault-Triber
+Bangalore,suv,manual,2,grey,61,petrol,2017,7.37,Ford-EcoSport
+Bangalore,suv,manual,1,grey,14,petrol,2021,12.97,Skoda-Kushaq
+Bangalore,hatchback,manual,1,silver,14,petrol,2020,4.29394,Renault-Kwid
+Hyderabad,suv,manual,1,black,79,petrol,2019,10.95,Hyundai-Creta
+Chennai,sedan,manual,1,red,6,petrol,2022,7.34359,Honda-Amaze
+Pune,suv,automatic,1,black,49,diesel,2021,18.10033,Tata-Harrier
+Pune,suv,automatic,1,white,82,diesel,2017,10.71,Hyundai-Creta
+Delhi,suv,manual,1,black,36,diesel,2022,15.27,Kia-Seltos
+Hyderabad,suv,manual,1,MET. PREMIUM SILVER,107,diesel,2017,7.52,Maruti Suzuki-S-Cross
+Hyderabad,hatchback,manual,1,white,29,petrol,2020,6.85,Hyundai-Elite i20
+Chennai,suv,manual,1,grey,22,petrol,2022,8.9182,Tata-Nexon
+Chennai,hatchback,manual,1,grey,71,diesel,2013,4.7,Maruti Suzuki-Swift
+Bangalore,hatchback,manual,3,white,61,petrol,2011,2.74103,Hyundai-i10
+Bangalore,suv,automatic,1,orange,57,petrol,2015,6.47,Ford-EcoSport
+Bangalore,sedan,manual,1,red,41,petrol,2016,5.45,Hyundai-Xcent
+Bangalore,suv,automatic,1,red,12,petrol,2022,16.97615,Mahindra-Thar
+Bangalore,hatchback,automatic,1,GAMING GREY.,16,petrol,2022,8.51,Toyota-Glanza
+Bangalore,hatchback,manual,1,grey,23,petrol,2017,4.67239,Maruti Suzuki-Wagon R 1.0
+Hyderabad,hatchback,manual,1,white,120,diesel,2015,5.49,Hyundai-Elite i20
+Bangalore,hatchback,manual,1,silver,67,petrol,2014,4.63,Hyundai-i20
+Bangalore,sedan,manual,3,silver,92,diesel,2011,3.71,Maruti Suzuki-Swift Dzire
+Chennai,suv,manual,1,black,9,petrol,2022,10.89648,Hyundai-Venue
+Bangalore,sedan,manual,1,silver,42,diesel,2016,6.89,Volkswagen-Vento
+Bangalore,suv,manual,1,grey,20,petrol,2020,9.97,Hyundai-Venue
+Hyderabad,hatchback,manual,1,blue,75,petrol,2017,6.09,Hyundai-Elite i20
+Hyderabad,hatchback,automatic,1,red,45,petrol,2019,4.35,Renault-Kwid
+Bangalore,hatchback,manual,1,beige,87,petrol,2012,3.01479,Hyundai-i10
+Bangalore,hatchback,automatic,1,silver,30,petrol,2019,4.5,Renault-Kwid
+Bangalore,hatchback,manual,2,maroon,53,petrol,2015,3.54,Hyundai-i10
+Hyderabad,hatchback,manual,1,grey,29,petrol,2020,5.38238,Ford-Figo
+Kolkata,hatchback,manual,2,T BLUE,44,petrol,2014,3.25,Maruti Suzuki-Swift
+Bangalore,hatchback,automatic,2,blue,28,petrol,2015,2.28,Tata-Nano
+Delhi,hatchback,manual,1,white,31,petrol,2011,2.72,Maruti Suzuki-Swift
+Bangalore,suv,manual,2,blue,61,diesel,2016,9.25,Tata-Hexa
+Kolkata,muv,manual,1,green,91,diesel,2018,7.64,Mahindra-Marazzo
+Delhi,sedan,manual,1,golden,72,petrol,2012,3.54,Honda-City
+Pune,sedan,manual,1,grey,13,petrol,2019,6.02,Volkswagen-Ameo
+Delhi,hatchback,manual,1,white,65,petrol,2016,5.12,Hyundai-Elite i20
+Pune,hatchback,manual,1,golden,50,petrol,2012,2.00965,Chevrolet-Spark
+Delhi,hatchback,manual,1,blue,51,petrol,2018,5.39,Maruti Suzuki-Baleno
+Chennai,hatchback,automatic,2,orange,73,petrol,2014,4.48,Hyundai-Grand i10
+Bangalore,suv,automatic,1,grey,28,petrol,2020,15.24644,Kia-Seltos
+Bangalore,suv,manual,1,white,59,diesel,2019,14.78,MG Motors-Hector
+Pune,sedan,manual,3,silver,16,diesel,2017,5.78,Volkswagen-Ameo
+Hyderabad,hatchback,automatic,1,white,81,diesel,2018,5.73,Maruti Suzuki-Swift
+Hyderabad,sedan,manual,2,white,93,diesel,2017,5.97,Volkswagen-Vento
+Kolkata,suv,manual,1,grey,42,diesel,2019,6.84,Honda-WR-V
+Kolkata,suv,manual,1,brown,13,petrol,2022,6.19,Nissan-Magnite
+Hyderabad,hatchback,manual,1,grey,33,petrol,2022,7.99,Tata-Altroz
+Pune,sedan,manual,1,grey,111,diesel,2016,6.57,Nissan-Sunny
+Chennai,hatchback,manual,1,bronze,71,petrol,2016,3.26,Renault-Kwid
+Delhi,sedan,automatic,1,black,51,petrol,2019,10.32,Hyundai-Verna
+Kolkata,hatchback,manual,1,grey,4,petrol,2022,6.21404,Maruti Suzuki-Wagon R 1.2
+Delhi,hatchback,manual,1,blue,54,petrol,2018,5.33,Maruti Suzuki-Baleno
+Hyderabad,suv,automatic,1,green,22,petrol,2021,9.39,Tata-Nexon
+Hyderabad,suv,manual,1,white,102,diesel,2017,9.95,Hyundai-Creta
+Bangalore,hatchback,manual,1,golden,37,petrol,2015,4.84759,Hyundai-Grand i10
+Bangalore,suv,automatic,1,red,72,petrol,2016,10.48,Hyundai-Creta
+Bangalore,hatchback,manual,3,red,47,petrol,2011,3.20444,Hyundai-i20
+Pune,hatchback,manual,2,white,67,petrol,2011,2.74018,Hyundai-i20
+Bangalore,suv,manual,1,silver,110,petrol,2016,8.83,Hyundai-Creta
+Bangalore,hatchback,manual,1,silver,109,petrol,2013,2.64,Hyundai-Eon
+Bangalore,hatchback,manual,1,STAR DUST,65,petrol,2016,4.25,Hyundai-i10
+Pune,muv,manual,1,red,82,petrol,2015,4.70692,Honda-Mobilio
+Delhi,muv,manual,1,grey,41,diesel,2018,15.09,Toyota-Innova Crysta
+Hyderabad,suv,manual,1,silver,75,diesel,2017,8.27,Maruti Suzuki-S-Cross
+Bangalore,hatchback,manual,1,red,29,petrol,2019,4.18,Renault-Kwid
+Hyderabad,sedan,manual,1,grey,14,petrol,2018,6.28806,Maruti Suzuki-Dzire
+Bangalore,hatchback,automatic,2,white,28,petrol,2016,2.45,Tata-Nano
+Bangalore,hatchback,manual,2,orange,43,petrol,2013,2.44,Maruti Suzuki-Alto K10
+Bangalore,hatchback,automatic,1,silver,8,petrol,2020,5.19,Renault-Kwid
+Bangalore,hatchback,manual,1,white,55,diesel,2011,4.26,Maruti Suzuki-Swift
+Delhi,muv,manual,1,grey,114,petrol,2012,4.17,Maruti Suzuki-Ertiga
+Kolkata,hatchback,manual,2,bronze,53,petrol,2019,2.78,Renault-Kwid
+Hyderabad,hatchback,manual,1,grey,30,petrol,2016,4.72,Hyundai-i10
+Bangalore,hatchback,manual,1,silver,52,petrol,2015,2.96,Maruti Suzuki-Alto 800
+Bangalore,muv,automatic,1,grey,15,petrol,2022,18.07,Kia-Carens
+Bangalore,suv,manual,1,red,72,diesel,2016,6.99,Maruti Suzuki-Vitara Brezza
+Hyderabad,hatchback,manual,1,blue,34,petrol,2018,5.18674,Hyundai-Grand i10
+Pune,sedan,manual,1,brown,98,diesel,2015,6.32,Honda-City
+Hyderabad,hatchback,manual,1,grey,500,petrol,2017,6.09,Honda-Jazz
+Delhi,sedan,manual,1,grey,74,petrol,2015,7.1,Toyota-Corolla Altis
+Bangalore,sedan,manual,2,black,65,diesel,2012,5.21,Hyundai-Verna
+Hyderabad,hatchback,manual,2,grey,40,petrol,2018,3.12,Maruti Suzuki-Alto 800
+Bangalore,suv,manual,1,red,23,petrol,2016,9.97,Hyundai-Creta
+Chennai,hatchback,manual,1,red,24,petrol,2018,5.01999,Hyundai-New Santro 1.1
+Hyderabad,hatchback,manual,1,white,70,petrol,2016,3.14988,Hyundai-Eon
+Pune,sedan,manual,1,red,45,petrol,2015,5.49,Honda-City
+Chennai,suv,manual,1,white,19,petrol,2021,8.8,Honda-WR-V
+Chennai,hatchback,manual,1,blue,14,petrol,2022,9.33,Hyundai-New i20
+Bangalore,muv,manual,1,blue,90,petrol,2012,5.7165,Maruti Suzuki-Ertiga
+Hyderabad,hatchback,manual,2,grey,120,petrol,2019,3.6,Renault-Kwid
+Kolkata,hatchback,manual,1,red,7,petrol,2022,5.8,Maruti Suzuki-Celerio
+Pune,hatchback,automatic,2,red,23,petrol,2018,3.29,Datsun-Redi-GO
+Hyderabad,suv,manual,1,red,54,diesel,2020,11.4,Mahindra-XUV 300
+Pune,suv,manual,1,bronze,13,petrol,2021,6.9956,Tata-Punch
+Bangalore,hatchback,manual,1,white,46,petrol,2017,3.32,Maruti Suzuki-Alto 800
+Bangalore,hatchback,manual,1,ICE COOL WHITE,41,petrol,2019,3.89,Renault-Kwid
+Hyderabad,sedan,manual,1,red,32,petrol,2019,8.39,Maruti Suzuki-Ciaz
+Kolkata,hatchback,manual,1,beige,51,petrol,2013,2.82,Hyundai-i20
+Chennai,hatchback,manual,1,grey,20,petrol,2021,8.39,Hyundai-New i20
+Bangalore,muv,automatic,1,blue,11,petrol,2022,8.23,Renault-Triber
+Pune,hatchback,manual,1,grey,21,petrol,2011,3.48,Maruti Suzuki-Swift
+Chennai,suv,manual,2,red,100,diesel,2016,6.13654,Ford-EcoSport
+Bangalore,suv,manual,1,red,30,diesel,2018,13.75,Jeep-Compass
+Bangalore,suv,automatic,1,orange,121,diesel,2016,7.39,Renault-Duster
+Pune,hatchback,automatic,1,red,44,petrol,2020,5.94,Tata-Tiago
+Pune,sedan,manual,1,grey,60,petrol,2013,3.52,Nissan-Sunny
+Bangalore,hatchback,automatic,1,silver,36,petrol,2020,4.61,Renault-Kwid
+Delhi,hatchback,manual,1,grey,16,petrol+cng,2022,6.34563,Hyundai-Grand i10 Nios
+Chennai,sedan,automatic,1,blue,110,petrol,2017,6.12,Maruti Suzuki-Dzire
+Bangalore,hatchback,automatic,2,grey,38,petrol,2018,7.02,Maruti Suzuki-Baleno
+Bangalore,suv,manual,1,red,78,diesel,2018,11.27,Mahindra-XUV500
+Hyderabad,suv,manual,1,silver,17,petrol,2021,7.61,Renault-Kiger
+Bangalore,suv,manual,1,white,23,petrol,2014,4.73911,Ford-EcoSport
+Pune,hatchback,manual,2,grey,90,diesel,2016,4.98521,Volkswagen-Polo
+Hyderabad,suv,manual,1,black,33,petrol,2021,10.45,Kia-Sonet
+Pune,sedan,manual,1,silver,25,petrol,2019,5.92,Hyundai-Xcent
+Bangalore,hatchback,automatic,2,red,43,petrol,2016,5.55738,Hyundai-Grand i10
+Delhi,suv,manual,1,white,92,petrol,2019,6.89114,Honda-WR-V
+Pune,hatchback,manual,1,red,79,petrol,2015,4.65,Volkswagen-Polo
+Pune,suv,manual,1,white,3,petrol,2023,15.57294,Skoda-Kushaq
+Bangalore,suv,automatic,1,grey,22,petrol,2018,9.54,Ford-EcoSport
+Pune,hatchback,manual,1,M G GREY,56,petrol,2016,5.37,Maruti Suzuki-Swift
+Chennai,sedan,automatic,2,white,30,petrol,2017,8.3606,Hyundai-Verna
+Delhi,hatchback,manual,1,red,73,petrol,2015,3.72,Hyundai-Grand i10
+Pune,suv,manual,1,white,15,petrol,2022,13.83605,MG Motors-Astor
+Kolkata,suv,manual,1,red,42,diesel,2020,7.88743,Honda-WR-V
+Pune,sedan,manual,2,grey,76,petrol,2016,4.01,Volkswagen-Ameo
+Pune,suv,manual,1,red,11,petrol,2022,13.2,MG Motors-Astor
+Bangalore,sedan,manual,1,white,41,petrol,2014,4.42378,Honda-Amaze
+Chennai,crossover,manual,1,red,38,petrol,2020,5.72584,Ford-Freestyle
+Bangalore,suv,automatic,1,bronze,31,diesel,2019,10.49293,Renault-Duster
+Chennai,suv,manual,1,orange,24,petrol,2021,13.29,Skoda-Kushaq
+Kolkata,suv,manual,1,blue,35,petrol,2021,8.66,Hyundai-Venue
+Chennai,hatchback,manual,1,white,95,diesel,2014,5.56,Hyundai-Elite i20
+Bangalore,hatchback,manual,1,silver,14,petrol,2018,7.47,Maruti Suzuki-Swift
+Hyderabad,hatchback,automatic,1,blue,42,petrol,2018,4.26995,Renault-Kwid
+Bangalore,hatchback,manual,3,white,74,petrol,2012,3.62,Hyundai-i20
+Kolkata,suv,manual,1,blue,29,petrol,2020,8.74303,Tata-Nexon
+Delhi,sedan,automatic,1,white,114,petrol,2018,8.59,Hyundai-Verna
+Bangalore,hatchback,manual,1,white,75,diesel,2011,2.55976,Ford-Figo
+Bangalore,hatchback,automatic,1,red,33,petrol,2021,7.18,Maruti Suzuki-Swift
+Hyderabad,hatchback,automatic,1,white,14,petrol,2020,4.82,Maruti Suzuki-S-Presso
+Chennai,sedan,manual,1,white,143,diesel,2016,4.83,Tata-Zest
+Delhi,suv,automatic,1,white,11,petrol,2022,7.67674,Renault-Kiger
+Bangalore,suv,manual,1,brown,81,petrol,2015,7.95654,Honda-CR-V
+Bangalore,hatchback,automatic,2,bronze,54,petrol,2017,3.69,Renault-Kwid
+Hyderabad,hatchback,manual,1,red,42,petrol,2021,7.74,Tata-Altroz
+Pune,sedan,manual,1,white,77,diesel,2011,3.99,Maruti Suzuki-Swift Dzire
+Bangalore,suv,automatic,1,red,19,petrol,2021,9.75,Renault-Kiger
+Kolkata,hatchback,automatic,1,blue,20,petrol,2020,4.42,Hyundai-New Santro 1.1
+Bangalore,hatchback,manual,1,beige,34,petrol,2011,3.27915,Hyundai-i10
+Hyderabad,hatchback,manual,1,blue,19,petrol,2021,4.41,Renault-Kwid
+Kolkata,suv,automatic,1,white,40,diesel,2018,10.48,Hyundai-Creta
+Bangalore,hatchback,manual,2,silver,84,petrol,2011,2.30626,Hyundai-Eon
+Bangalore,suv,automatic,1,CASPIAN BLUE WITH MY,12,petrol,2022,9.99,Renault-Kiger
+Pune,sedan,automatic,1,blue,62,petrol,2018,6.28,Maruti Suzuki-Dzire
+Kolkata,hatchback,manual,1,red,46,petrol,2019,4.99,Maruti Suzuki-Swift
+Delhi,hatchback,manual,1,white,62,petrol,2014,3.65,Hyundai-Grand i10
+Bangalore,suv,manual,1,silver,81,diesel,2016,8.79,Mahindra-XUV500
+Hyderabad,muv,manual,3,blue,39,petrol,2019,3.68,Datsun-Go Plus
+Bangalore,suv,manual,2,blue,66,diesel,2018,8.75,Maruti Suzuki-S-Cross
+Pune,muv,manual,1,blue,66,petrol,2019,5.97,Renault-Triber
+Bangalore,hatchback,manual,1,silver,5,petrol,2023,10.88683,Hyundai-New i20
+Bangalore,sedan,manual,1,black,44,petrol,2018,8.45,Hyundai-Verna
+Pune,hatchback,manual,2,red,74,petrol,2010,2.08,Maruti Suzuki-Ritz
+Bangalore,hatchback,manual,1,black,59,petrol,2011,2.87,Hyundai-i10
+Hyderabad,hatchback,manual,1,blue,19,petrol,2021,4.80316,Renault-Kwid
+Bangalore,suv,manual,1,brown,46,diesel,2019,9.80795,Renault-Duster
+Delhi,sedan,automatic,1,red,44,petrol,2018,9.87439,Hyundai-Verna
+Bangalore,hatchback,manual,1,beige,18,petrol,2011,3.35,Hyundai-i10
+Chennai,sedan,manual,1,beige,47,petrol,2016,5.89404,Volkswagen-Vento
+Bangalore,hatchback,manual,1,grey,39,petrol,2011,3.31,Hyundai-i10
+Kolkata,suv,automatic,1,grey,22,petrol,2020,10.78,Kia-Sonet
+Pune,suv,automatic,1,white,30,petrol,2021,11.48,Mahindra-XUV 300
+Hyderabad,sedan,manual,1,white,57,diesel,2011,3.99,Maruti Suzuki-Swift Dzire
+Pune,sedan,manual,1,grey,69,diesel,2019,8.39,Maruti Suzuki-Ciaz
+Hyderabad,suv,manual,1,silver,50,diesel,2021,10.70525,Mahindra-Bolero Neo
+Hyderabad,suv,manual,1,silver,49,diesel,2017,8.2,Mahindra-TUV300
+Hyderabad,hatchback,manual,1,silver,37,petrol,2018,3.78571,Hyundai-Eon
+Chennai,suv,manual,1,white,8,petrol,2022,11.19948,Maruti Suzuki-Brezza
+Kolkata,suv,manual,1,grey,43,petrol,2020,7.54,Honda-WR-V
+Delhi,sedan,manual,2,white,80,petrol+cng,2013,4.32,Hyundai-Verna
+Hyderabad,hatchback,manual,1,silver,102,petrol,2016,4.86,Honda-Jazz
+Chennai,sedan,manual,1,red,83,petrol,2015,6.41726,Honda-City
+Hyderabad,hatchback,manual,1,brown,104,petrol,2015,4.46,Honda-Jazz
+Delhi,hatchback,manual,1,white,45,petrol,2016,4.16343,Maruti Suzuki-Swift
+Chennai,hatchback,manual,1,blue,34,petrol,2018,5.24308,Hyundai-Grand i10
+Kolkata,suv,manual,2,white,20,petrol,2019,6.28,Tata-Nexon
+Bangalore,hatchback,manual,1,white,48,petrol,2016,3.47,Maruti Suzuki-Alto 800
+Bangalore,suv,manual,1,red,11,petrol,2021,9.01074,Kia-Sonet
+Bangalore,hatchback,automatic,1,brown,39,petrol,2019,5.92,Tata-Tiago
+Hyderabad,suv,manual,1,black,40,diesel,2021,11.28073,Kia-Sonet
+Pune,hatchback,manual,1,silver,33,petrol,2017,6.07836,Hyundai-Elite i20
+Hyderabad,suv,automatic,1,white,36,diesel,2021,13.3,Mahindra-XUV 300
+Hyderabad,suv,manual,2,brown,100,diesel,2016,5.78344,Ford-EcoSport
+Delhi,suv,automatic,2,red,64,diesel,2018,23.94,Ford-Endeavour
+Pune,suv,automatic,1,white,58,petrol,2016,9.57002,Hyundai-Creta
+Bangalore,suv,manual,1,grey,95,diesel,2017,7.11989,Ford-EcoSport
+Pune,hatchback,manual,1,silver,49,petrol,2012,3.77,Maruti Suzuki-Swift
+Delhi,sedan,automatic,1,white,59,petrol,2014,6.75,Toyota-Corolla Altis
+Bangalore,hatchback,manual,2,red,56,petrol,2016,3.11,Renault-Kwid
+Bangalore,suv,automatic,1,white,17,petrol,2023,14.72483,Maruti Suzuki-Grand Vitara
+Chennai,hatchback,manual,2,grey,52,petrol,2011,2.71,Maruti Suzuki-Wagon R 1.0
+Pune,hatchback,manual,2,brown,32,petrol,2018,4.45,Tata-Tiago
+Bangalore,sedan,manual,2,white,80,petrol,2013,3.49,Honda-Amaze
+Pune,sedan,automatic,1,white,14,petrol,2021,8.42,Maruti Suzuki-Dzire
+Bangalore,hatchback,manual,2,blue,32,petrol,2014,4.19,Hyundai-Grand i10
+Pune,sedan,automatic,1,white,35,diesel,2016,19.9,Audi-A3
+Delhi,hatchback,manual,1,brown,55,petrol,2019,4.92,Tata-Tiago
+Hyderabad,suv,automatic,1,grey,34,diesel,2021,22.27,Tata-Safari
+Pune,hatchback,manual,1,grey,44,petrol,2016,5.62,Maruti Suzuki-Baleno
+Hyderabad,sedan,manual,2,grey,90,petrol,2018,4.84,Ford-Figo Aspire
+Hyderabad,suv,manual,1,white,69,diesel,2018,8.41566,Honda-WR-V
+Chennai,hatchback,automatic,1,grey,17,petrol,2015,4.22,Maruti Suzuki-Celerio
+Pune,hatchback,automatic,1,white,9,petrol,2022,11.50264,Hyundai-i20 N Line
+Hyderabad,hatchback,manual,1,red,17,petrol,2018,3.48,Maruti Suzuki-Alto 800
+Bangalore,hatchback,manual,1,black,23,petrol,2011,2.35551,Chevrolet-Beat
+Hyderabad,suv,automatic,1,white,70,petrol,2019,10.04048,Honda-BR-V
+Chennai,suv,manual,1,blue,17,petrol,2022,6.99,Tata-Punch
+Delhi,sedan,automatic,1,bronze,87,petrol,2016,5.94,Honda-City
+Hyderabad,suv,manual,1,red,55,petrol,2019,8.34185,Tata-Nexon
+Hyderabad,hatchback,automatic,2,red,78,petrol,2019,3.92,Renault-Kwid
+Chennai,suv,manual,1,grey,13,petrol,2021,8.99248,Nissan-Kicks
+Delhi,sedan,manual,1,red,64,petrol,2014,5.1098,Honda-City
+Hyderabad,suv,automatic,2,grey,81,diesel,2021,19.00237,Tata-Safari
+Chennai,sedan,automatic,1,grey,17,petrol,2021,14.10873,Honda-City
+Chennai,hatchback,manual,1,grey,37,petrol,2017,5.37508,Hyundai-Grand i10
+Bangalore,sedan,manual,2,grey,55,petrol,2012,3.44439,Nissan-Sunny
+Bangalore,sedan,manual,1,grey,78,petrol,2017,7.93542,Hyundai-Verna
+Kolkata,hatchback,manual,1,grey,14,petrol,2016,2.68,Datsun-GO
+Hyderabad,hatchback,automatic,1,brown,22,petrol,2016,4.60417,Maruti Suzuki-Wagon R 1.0
+Pune,suv,automatic,1,white,94,diesel,2018,20.32162,Volkswagen-Tiguan
+Hyderabad,hatchback,manual,1,white,43,diesel,2021,8.74,Tata-Altroz
+Chennai,hatchback,manual,1,white,92,diesel,2016,4.94,Honda-Jazz
+Hyderabad,sedan,automatic,1,black,6,petrol,2023,16.97713,Hyundai-Verna
+Kolkata,hatchback,manual,1,blue,63,petrol,2017,4.9,Volkswagen-Polo
+Chennai,suv,manual,1,orange,20,petrol,2022,8.71822,Renault-Kiger
+Bangalore,suv,automatic,1,red,51,diesel,2018,37.57058,Land Rover-Discovery Sport
+Bangalore,muv,manual,1,maroon,55,petrol,2014,5.68874,Honda-Mobilio
+Kolkata,hatchback,manual,1,blue,40,diesel,2017,4.88,Hyundai-Grand i10
+Hyderabad,suv,manual,1,silver,39,petrol,2017,10.41115,Hyundai-Creta
+Pune,hatchback,automatic,1,brown,39,petrol,2019,7.6922,Honda-Jazz
+Bangalore,suv,automatic,1,orange,31,petrol,2019,9.53359,Tata-Nexon
+Hyderabad,sedan,automatic,1,red,39,petrol,2021,8.25,Maruti Suzuki-Dzire
+Bangalore,hatchback,manual,3,purple,28,petrol,2014,1.63978,Tata-Nano
+Bangalore,suv,manual,2,orange,115,diesel,2015,10.53,Mahindra-XUV500
+Kolkata,hatchback,manual,1,blue,5,petrol,2020,3.16785,Maruti Suzuki-Alto 800
+Delhi,suv,manual,1,black,15,petrol,2023,15.92,Kia-Seltos
+Bangalore,muv,manual,1,grey,81,petrol,2015,7.19,Maruti Suzuki-Ertiga
+Chennai,hatchback,manual,1,purple,18,petrol+cng,2022,7.21,Tata-Tiago
+Hyderabad,suv,manual,1,white,44,diesel,2022,10.75,Mahindra-Bolero Neo
+Bangalore,hatchback,manual,1,black,135,diesel,2013,4.26,Maruti Suzuki-Swift
+Bangalore,suv,manual,1,white,64,petrol,2016,9.54,Hyundai-Creta
+Pune,hatchback,automatic,1,grey,39,petrol,2018,4.99,Maruti Suzuki-Celerio X
+Bangalore,suv,automatic,2,brown,68,diesel,2016,18.25,BMW-X1
+Hyderabad,suv,manual,2,silver,33,petrol,2016,5.48,Honda-BR-V
+Bangalore,suv,automatic,1,blue,21,petrol,2019,11.20691,Hyundai-Venue
+Bangalore,hatchback,manual,1,silver,47,petrol,2015,4.68,Hyundai-Grand i10
+Pune,hatchback,manual,1,grey,26,petrol,2016,4.43621,Tata-Tiago
+Bangalore,hatchback,manual,2,silver,44,petrol,2014,3.89,Maruti Suzuki-Ritz
+Pune,sedan,manual,1,grey,71,petrol,2016,4.24,Tata-Zest
+Hyderabad,sedan,manual,1,black,13,petrol,2020,10.42223,Hyundai-Verna
+Kolkata,suv,manual,1,blue,26,petrol,2021,7.65,Renault-Duster
+Pune,sedan,manual,1,brown,109,petrol,2016,6.05825,Honda-City
+Hyderabad,sedan,manual,1,black,86,diesel,2018,8.64,Maruti Suzuki-Ciaz
+Bangalore,hatchback,manual,3,red,93,petrol,2014,2.67,Nissan-Micra Active
+Bangalore,sedan,automatic,1,red,56,petrol,2014,5.08,Hyundai-Xcent
+Delhi,hatchback,manual,2,grey,68,petrol,2015,4.94,Hyundai-Elite i20
+Hyderabad,sedan,manual,1,grey,62,petrol,2011,3.35609,Maruti Suzuki-Swift Dzire
+Kolkata,suv,automatic,1,white,50,diesel,2019,11.8,Kia-Seltos
+Pune,hatchback,manual,1,grey,88,petrol,2016,5.41,Maruti Suzuki-Baleno
+Delhi,suv,manual,1,white,62,petrol,2017,6.64,Ford-EcoSport
+Pune,hatchback,manual,1,grey,13,diesel,2021,9.17,Tata-Altroz
+Bangalore,hatchback,manual,2,grey,42,petrol,2019,4.12684,Renault-Kwid
+Hyderabad,hatchback,manual,1,white,73,petrol,2015,5.6754,Hyundai-Elite i20
+Pune,suv,manual,1,grey,63,petrol,2018,7.95958,Tata-Nexon
+Bangalore,hatchback,manual,1,grey,49,petrol,2013,2.97,Hyundai-Eon
+Hyderabad,sedan,manual,1,silver,67,diesel,2018,10.63,Honda-City
+Kolkata,hatchback,manual,1,grey,30,petrol,2016,2.59594,Maruti Suzuki-Alto 800
+Delhi,suv,automatic,1,grey,39,diesel,2019,20.95,Volkswagen-Tiguan
+Pune,hatchback,manual,1,POLAR WHITE,74,diesel,2018,7.45,Hyundai-Elite i20
+Pune,hatchback,manual,1,white,26,petrol+cng,2020,6.33,Hyundai-Grand i10 Nios
+Delhi,suv,manual,1,white,35,diesel,2019,25.37,Ford-Endeavour
+Pune,suv,manual,1,blue,53,diesel,2018,8.0463,Maruti Suzuki-S-Cross
+Hyderabad,hatchback,manual,1,brown,69,petrol,2018,6.09909,Honda-Jazz
+Bangalore,sedan,manual,1,brown,105,petrol,2016,4.85124,Volkswagen-Ameo
+Pune,hatchback,manual,1,blue,54,petrol+cng,2017,6.39,Maruti Suzuki-Baleno
+Kolkata,hatchback,manual,1,golden,10,petrol,2017,3.74316,Hyundai-Grand i10
+Delhi,hatchback,manual,2,red,60,petrol,2012,2.83,Maruti Suzuki-Swift
+Hyderabad,hatchback,manual,1,grey,26,petrol,2020,7.39,Tata-Altroz
+Delhi,hatchback,manual,1,brown,40,petrol,2018,4.57,Tata-Tiago
+Delhi,hatchback,manual,1,white,21,petrol,2018,4.78273,Hyundai-Grand i10
+Bangalore,hatchback,automatic,2,grey,108,petrol,2012,3.13202,Hyundai-i10
+Bangalore,hatchback,manual,1,white,122,diesel,2015,5.47,Hyundai-Elite i20
+Bangalore,suv,manual,1,bronze,11,petrol,2022,11.38173,Maruti Suzuki-Brezza
+Chennai,hatchback,automatic,1,bronze,38,petrol,2019,4.53,Renault-Kwid
+Bangalore,suv,manual,1,white,86,diesel,2017,10.47273,Hyundai-Creta
+Bangalore,muv,manual,1,SERENE BLU,51,petrol,2012,5.51,Maruti Suzuki-Ertiga
+Delhi,suv,manual,1,white,27,petrol,2021,6.85,Renault-Kiger
+Bangalore,hatchback,automatic,2,white,21,petrol,2021,5.29,Renault-Kwid
+Bangalore,hatchback,automatic,1,black,56,petrol,2013,4.13,Nissan-Micra
+Kolkata,hatchback,manual,1,brown,27,petrol,2019,3.49,Renault-Kwid
+Hyderabad,hatchback,manual,1,brown,43,petrol,2019,5.17921,Tata-Tiago
+Pune,sedan,manual,1,silver,110,petrol,2013,4.14,Maruti Suzuki-Swift Dzire
+Bangalore,sedan,manual,1,red,88,diesel,2014,4.42176,Hyundai-Xcent
+Delhi,hatchback,automatic,1,brown,23,petrol,2021,9.0157,Honda-Jazz
+Pune,crossover,manual,1,white,25,petrol,2018,6.72232,Hyundai-i20 Active
+Pune,sedan,automatic,2,silver,33,petrol,2018,9.43509,Hyundai-Verna
+Delhi,sedan,manual,1,grey,24,petrol,2015,4.32,Maruti Suzuki-Swift Dzire
+Hyderabad,suv,automatic,1,black,111,diesel,2020,13.94668,Kia-Seltos
+Bangalore,suv,manual,2,silver,126,petrol,2016,4.86,Renault-Duster
+Pune,sedan,manual,1,grey,56,petrol,2013,4.36,Maruti Suzuki-Swift Dzire
+Chennai,suv,manual,1,silver,7,petrol,2022,9.9,Toyota-Urban Cruiser
+Hyderabad,hatchback,manual,1,white,63,diesel,2015,4.77,Maruti Suzuki-Swift
+Hyderabad,hatchback,manual,2,grey,21,petrol,2018,2.24,Datsun-Redi-GO
+Delhi,suv,automatic,1,white,64,petrol,2016,9.20861,Hyundai-Creta
+Pune,hatchback,manual,2,red,48,petrol,2015,2.58237,Maruti Suzuki-Alto K10
+Delhi,hatchback,manual,1,grey,40,petrol,2017,5.1045,Maruti Suzuki-Swift
+Pune,hatchback,manual,1,blue,38,petrol,2020,4.22793,Renault-Kwid
+Delhi,muv,manual,1,silver,76,diesel,2018,7.27,Mahindra-Marazzo
+Pune,suv,automatic,2,yellow,4,petrol,2022,7.92,Renault-Kiger
+Delhi,hatchback,manual,1,red,25,petrol,2022,6.35613,Maruti Suzuki-Swift
+Hyderabad,suv,manual,1,grey,7,petrol,2020,10.39,Hyundai-Venue
+Bangalore,hatchback,manual,1,grey,18,petrol,2020,8.97,Hyundai-New i20
+Hyderabad,hatchback,manual,1,red,63,petrol,2013,3.28,Nissan-Micra Active
+Bangalore,hatchback,automatic,1,white,4,petrol,2022,8.19,Maruti Suzuki-Swift
+Bangalore,hatchback,manual,3,red,86,petrol,2012,2.46,Hyundai-i10
+Hyderabad,hatchback,manual,1,blue,95,diesel,2015,6.12,Hyundai-Elite i20
+Delhi,suv,manual,1,GLACIER WHITE PEARL,32,petrol,2021,9.65,Kia-Sonet
+Bangalore,muv,manual,1,brown,19,petrol,2022,7.98,Renault-Triber
+Hyderabad,hatchback,manual,1,grey,24,petrol,2015,3.59,Maruti Suzuki-Wagon R 1.0
+Bangalore,sedan,manual,1,red,20,petrol,2017,5.21403,Tata-Tigor
+Pune,hatchback,manual,1,red,49,petrol,2016,5.63,Maruti Suzuki-Baleno
+Pune,sedan,manual,1,red,6,petrol,2023,14.78,Volkswagen-Virtus
+Hyderabad,hatchback,manual,1,white,80,diesel,2015,4.62,Maruti Suzuki-Swift
+Bangalore,hatchback,automatic,2,red,43,petrol,2017,3.75,Renault-Kwid
+Pune,hatchback,manual,1,grey,47,petrol,2014,4.18812,Maruti Suzuki-Swift
+Bangalore,hatchback,manual,1,red,32,petrol,2016,6.95018,Hyundai-Elite i20
+Bangalore,hatchback,manual,1,white,25,petrol,2022,8.27,Maruti Suzuki-Swift
+Hyderabad,hatchback,automatic,1,white,22,petrol,2020,4.78,Maruti Suzuki-S-Presso
+Hyderabad,suv,manual,1,grey,43,diesel,2019,15.12313,Tata-Harrier
+Hyderabad,suv,manual,1,white,124,diesel,2016,6.35,Ford-EcoSport
+Hyderabad,sedan,automatic,1,brown,39,petrol,2021,13.55772,Honda-City
+Bangalore,suv,automatic,1,orange,61,diesel,2016,12.99,Mahindra-XUV500
+Bangalore,hatchback,manual,1,silver,55,petrol,2014,4.17,Hyundai-Grand i10
+Bangalore,hatchback,automatic,2,grey,43,petrol,2016,5.28198,Hyundai-Grand i10
+Delhi,suv,manual,1,black,43,diesel,2021,15.93585,Mahindra-XUV500
+Bangalore,suv,manual,2,silver,66,diesel,2013,5.04297,Ford-EcoSport
+Bangalore,suv,automatic,1,orange,5,petrol,2022,8.95,Renault-Kiger
+Delhi,suv,manual,1,white,18,diesel,2021,17.93,Tata-Safari
+Bangalore,hatchback,manual,1,red,42,petrol,2013,2.56778,Maruti Suzuki-Alto 800
+Hyderabad,suv,automatic,1,white,44,petrol,2020,15.93683,Hyundai-Creta
+Hyderabad,hatchback,manual,1,red,39,petrol,2018,3.29,Maruti Suzuki-Alto 800
+Bangalore,hatchback,manual,2,red,52,petrol,2012,2.84,Hyundai-Santro Xing
+Delhi,hatchback,manual,1,silver,89,petrol+cng,2017,3.68,Maruti Suzuki-Wagon R 1.0
+Delhi,sedan,manual,1,CHAMPAGNE,70,petrol,2010,2.47,Hyundai-Verna
+Chennai,sedan,automatic,3,brown,102,petrol,2015,4.28,Honda-Amaze
+Delhi,suv,manual,1,silver,73,petrol,2018,9.28,Hyundai-Creta
+Delhi,crossover,manual,1,orange,50,petrol,2015,4.36929,Toyota-Etios Cross
+Delhi,hatchback,manual,1,red,52,petrol+cng,2018,4.47,Maruti Suzuki-Celerio
+Chennai,hatchback,automatic,1,white,21,petrol,2023,8.99,Toyota-Glanza
+Bangalore,suv,automatic,2,blue,79,diesel,2016,28.5,BMW-X3
+Bangalore,suv,manual,1,grey,53,petrol,2018,10.32,Honda-BR-V
+Delhi,hatchback,manual,1,red,22,petrol,2018,4.39,Hyundai-New Santro 1.1
+Pune,suv,automatic,1,silver,7,petrol,2022,14.5,MG Motors-Astor
+Bangalore,hatchback,manual,2,beige,45,petrol,2014,2.99,Chevrolet-Beat
+Hyderabad,hatchback,manual,1,white,12,petrol,2022,7.78,Tata-Altroz
+Delhi,hatchback,manual,2,red,57,petrol,2011,1.8,Hyundai-i10
+Delhi,suv,manual,1,silver,45,petrol,2018,6.17,Tata-Nexon
+Delhi,suv,manual,1,grey,81,petrol,2016,7.73,Hyundai-Creta
+Delhi,hatchback,automatic,1,grey,67,petrol,2017,4.09348,Maruti Suzuki-Wagon R 1.0
+Pune,suv,automatic,1,grey,9,hybrid,2022,17.81498,Maruti Suzuki-Grand Vitara
+Hyderabad,suv,manual,1,orange,22,petrol,2021,9.64,Maruti Suzuki-Vitara Brezza
+Chennai,hatchback,manual,1,beige,12,petrol,2021,8.39,Hyundai-New i20
+Pune,suv,automatic,1,white,78,diesel,2019,13.81,Hyundai-Creta
+Hyderabad,suv,manual,1,green,28,petrol,2020,8.19,Tata-Nexon
+Kolkata,hatchback,manual,1,brown,34,petrol,2019,3.1591,Renault-Kwid
+Bangalore,sedan,automatic,1,white,39,diesel,2015,22.72358,Audi-A6
+Hyderabad,suv,manual,1,grey,52,petrol,2018,7.44133,Honda-WR-V
+Chennai,suv,automatic,1,grey,30,petrol,2021,11.29,Hyundai-Venue
+Bangalore,hatchback,manual,2,white,49,petrol,2015,2.74,Renault-Kwid
+Pune,hatchback,automatic,1,white,41,petrol,2016,3.54055,Renault-Kwid
+Kolkata,hatchback,manual,1,blue,17,petrol,2022,3.9624,Renault-Kwid
+Bangalore,hatchback,manual,1,red,68,petrol,2013,3.16347,Hyundai-Santro Xing
+Pune,hatchback,manual,1,grey,56,petrol,2017,6.15,Volkswagen-Polo
+Hyderabad,hatchback,manual,1,blue,49,petrol,2019,4.14,Renault-Kwid
+Bangalore,muv,manual,1,white,31,petrol,2022,7.29,Renault-Triber
+Hyderabad,suv,manual,2,blue,42,diesel,2019,8.32,Renault-Duster
+Hyderabad,hatchback,manual,2,orange,21,petrol,2021,6.52,Maruti Suzuki-Ignis
+Chennai,hatchback,manual,1,red,15,petrol,2020,4.99676,Hyundai-New Santro 1.1
+Pune,suv,manual,2,grey,67,diesel,2015,6.39,Maruti Suzuki-S-Cross
+Kolkata,hatchback,manual,1,grey,3,petrol,2018,2.84848,Maruti Suzuki-Alto 800
+Kolkata,hatchback,manual,2,red,41,petrol,2014,2.82,Maruti Suzuki-Wagon R 1.0
+Delhi,sedan,automatic,2,silver,60,petrol,2014,4.97,Honda-City
+Pune,hatchback,manual,1,red,32,petrol,2016,5.77652,Hyundai-Elite i20
+Bangalore,hatchback,automatic,1,grey,37,petrol,2017,5.14,Maruti Suzuki-Celerio
+Pune,suv,manual,1,blue,19,petrol,2021,9.38,Tata-Nexon
+Chennai,sedan,automatic,1,grey,44,petrol,2017,6.28,Maruti Suzuki-Dzire
+Pune,hatchback,automatic,2,blue,13,petrol,2021,5.9475,Hyundai-Grand i10 Nios
+Chennai,suv,automatic,1,silver,133,diesel,2016,11.31,Hyundai-Santa Fe
+Pune,hatchback,manual,1,white,33,petrol,2020,7.92,Honda-Jazz
+Pune,sedan,manual,1,white,29,petrol,2016,6.48,Hyundai-Fluidic Verna 4S
+Hyderabad,hatchback,manual,1,white,30,petrol,2018,5.68,Hyundai-Grand i10
+Kolkata,hatchback,manual,1,red,15,petrol,2018,2.83359,Renault-Kwid
+Hyderabad,suv,automatic,1,blue,83,diesel,2018,20.16,Volkswagen-Tiguan
+Bangalore,muv,manual,1,grey,23,petrol,2014,6.73011,Maruti Suzuki-Ertiga
+Bangalore,sedan,manual,1,black,96,petrol,2016,6.80585,Hyundai-Fluidic Verna 4S
+Chennai,hatchback,automatic,1,white,20,petrol,2020,7.30078,Maruti Suzuki-Baleno
+Bangalore,hatchback,manual,1,white,71,diesel,2015,6.68,Hyundai-Elite i20
+Hyderabad,muv,automatic,1,blue,83,petrol,2020,5.78,Renault-Triber
+Delhi,sedan,automatic,1,grey,119,petrol,2017,5.91,Maruti Suzuki-Ciaz
+Bangalore,suv,manual,1,white,29,petrol,2021,10.34,Hyundai-Venue
+Delhi,suv,manual,1,silver,54,petrol+cng,2013,4.37,Renault-Duster
+Bangalore,suv,manual,1,grey,30,petrol,2021,9.82,Maruti Suzuki-S-Cross
+Chennai,hatchback,manual,1,blue,91,petrol,2016,5.38,Maruti Suzuki-Baleno
+Hyderabad,hatchback,manual,1,grey,16,petrol+cng,2022,6.25,Hyundai-New Santro 1.1
+Pune,hatchback,manual,1,blue,15,petrol,2018,3.30072,Maruti Suzuki-Alto 800
+Kolkata,hatchback,manual,1,beige,63,petrol,2015,3.06,Maruti Suzuki-Wagon R 1.0
+Bangalore,hatchback,manual,1,red,73,petrol,2015,3.24,Maruti Suzuki-Alto K10
+Hyderabad,sedan,automatic,1,brown,80,petrol,2017,6.67,Maruti Suzuki-Dzire
+Bangalore,suv,manual,1,white,11,petrol,2022,9.72,Hyundai-Venue
+Chennai,hatchback,manual,1,blue,21,petrol,2022,8.79,Hyundai-New i20
+Hyderabad,suv,manual,1,blue,5,petrol,2022,18.96902,Mahindra-XUV700
+Kolkata,suv,automatic,1,white,56,petrol,2019,7.99,Hyundai-Venue
+Pune,suv,manual,1,red,116,diesel,2018,12.85,Mahindra-XUV500
+Pune,sedan,manual,1,grey,23,petrol,2018,6.07,Hyundai-Xcent
+Delhi,suv,automatic,1,white,38,petrol,2019,13.5,Jeep-Compass
+Bangalore,hatchback,manual,1,white,62,diesel,2017,7.30172,Volkswagen-Polo
+Chennai,suv,automatic,1,silver,23,diesel,2022,26.45093,Mahindra-XUV700
+Chennai,hatchback,manual,1,white,6,petrol,2023,9.54,Tata-Altroz
+Bangalore,suv,automatic,1,white,19,petrol,2022,7.49,Renault-Kiger
+Bangalore,hatchback,manual,1,red,78,petrol,2015,3.99599,Hyundai-i10
+Bangalore,suv,automatic,2,white,51,diesel,2019,14.36899,Hyundai-Creta
+Pune,suv,manual,1,white,17,diesel,2021,9.97,Mahindra-Bolero
+Hyderabad,hatchback,automatic,1,grey,36,petrol,2018,4.12,Renault-Kwid
+Bangalore,hatchback,manual,1,white,5,petrol,2022,4.67,Maruti Suzuki-Alto K10
