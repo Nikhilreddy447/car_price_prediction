@@ -8,7 +8,8 @@ from sklearn.pipeline import Pipeline
 from src.exception import CustomException
 from src.logger import logging
 from src.utils import CustomLabelEncoder,TargetEncoder,save_object
-
+from sklearn.impute import SimpleImputer
+from sklearn.compose import ColumnTransformer
 
 @dataclass
 class DataTransformationConfig:
@@ -21,11 +22,14 @@ class DataTransformation:
     def get_data_transformer_object(self):
         try:
             categorical_cols = ['City', 'Body_type', 'Transmission', 'Fuel_type']
+            
             preprocessor = Pipeline([
             ('label_encoder', CustomLabelEncoder(columns=categorical_cols)),
             ('target_encoder_Make_Model', TargetEncoder(target_column='Make_Model')),
             ('target_encoder_Color', TargetEncoder(target_column='color')),
             ])
+            
+            
             logging.info("preprocessing completed")
             return preprocessor
         except Exception as e:
@@ -35,6 +39,9 @@ class DataTransformation:
         try:
             train_df = pd.read_csv(train_path)
             test_df = pd.read_csv(test_path)
+            
+            train_df.dropna(inplace=True)
+            test_df.dropna(inplace=True)
             
             logging.info("Read train and test data completed")
             logging.info("obtaining preprocesssor object")
